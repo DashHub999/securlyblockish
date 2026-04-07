@@ -1,6 +1,6 @@
 # securlyblockish
 umm I made an unblocker...unblocks anything now not just games uses webfuse demo to do so (I'm broke)
-https://demo.webfuse.com/+iframetest/?url=https%3A%2F%2F 
+https://demo.webfuse.com/+iframetest/?url=https%3A%2F%2F(add 
 follow the instructions on the website...they r pretty simple. 
 i am not uploading the code sorry
 
